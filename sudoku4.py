@@ -1,5 +1,3 @@
-"""Solve Sudoku instances and display each solution as a formatted board."""
-
 import sys
 
 from clingo.application import clingo_main

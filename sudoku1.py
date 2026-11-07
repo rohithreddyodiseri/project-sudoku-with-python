@@ -1,6 +1,3 @@
-
-"""Solve Sudoku instances with clingo's standard command-line interface."""
-
 import sys
 from pathlib import Path
 
